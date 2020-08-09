@@ -1,0 +1,18 @@
+.titl{
+    padding: 50px 35px;
+}
+
+#basket{
+    float: right;
+    margin-top: -270px;
+}
+
+.columnSection{
+    padding-top: 170px ;
+    padding-bottom: 50px;
+    /* padding-top: 200px; */
+}
+
+.card{
+    padding-left: 0px !important;
+}
